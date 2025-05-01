@@ -33,7 +33,7 @@ To start the PHP server, use the following command:
 
 ```bash
 php -S localhost:10099 -t ./ view.php
-'''
+
 **Note: Port number 10099 is available for use on your PC/server.**
 
 ## Contact Information
